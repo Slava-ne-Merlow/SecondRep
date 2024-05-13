@@ -10,6 +10,10 @@ logging.basicConfig(level=logging.INFO)
 
 # Прошу простите, как получить почту авторизованного пользователя я не разобрался
 mail = 'SlavaKushch@yandex.ru'
+
+
+
+
 sender = "slava.kush39@gmail.com"
 password = "iqpk evew sdkm zxml"
 
