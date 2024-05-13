@@ -13,6 +13,7 @@ mail = 'SlavaKushch@yandex.ru'
 sender = "slava.kush39@gmail.com"
 password = "iqpk evew sdkm zxml"
 
+
 server = smtplib.SMTP("smtp.gmail.com", 587)
 server.starttls()
 server.login(sender, password)
